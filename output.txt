@@ -1,0 +1,3 @@
+Wpis inicjalizujący od procesu nadrzędnego
+Wpis przetwórczy od procesu podrzędnego
+Wpis kończący od procesu nadrzędnego
